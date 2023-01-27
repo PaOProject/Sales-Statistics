@@ -1,2 +1,5 @@
-# Sales-Statistics
-Creazione di un applicativo desktop utilizzabile da un qualunque negozio addetto alle vendite di prodotti. L'obiettivo è quello di fornire al negozio la possibilità di inserire gli articoli venduti durante l'anno corrente e studiare l'andamento di vendita nei vari trimestri attraverso una serie di grafi offerti dall'app.
+# Object-oriented programming Project 2021/22
+
+Repository for PaO's Project 21/22 - Università degli Studi di Padova
+
+Contributors: Michael Amista', Marco Brigo
