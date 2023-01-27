@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Immagini/graphIcon(png).png</file>
+        <file>Immagini/barChart.png</file>
+        <file>Immagini/donutChart.png</file>
+        <file>Immagini/pointChart.png</file>
+        <file>Immagini/lineChart.png</file>
+        <file>Immagini/pieChart.png</file>
+        <file>Immagini/newFile.png</file>
+        <file>Immagini/openFile.png</file>
+        <file>Immagini/saveFile.png</file>
+        <file>Immagini/systemInformation.png</file>
+    </qresource>
+</RCC>
